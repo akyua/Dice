@@ -5,7 +5,7 @@
 <p align="left"> Explanation Buttons: New game - Start a new game.  </p>
 <p align="left"> Explanation Buttons: Roll Dice - You'll roll a dice with a random number. Between 1 to 6.  </p>
 <p align="left"> Explanation Buttons: Hold - You'll obtain all your current points, and will add in the your total score and after will start the round of your opponent. </p>
-<p align="left"> OBS: Recommended desable Dark Mode/Dark Reader if you use. </p>
+<p align="left"> OBS: Recommended disable Dark Mode/Dark Reader if you use. </p>
 
 <br>
 
